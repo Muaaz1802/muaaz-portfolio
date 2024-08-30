@@ -8,7 +8,7 @@ const Footer = () => {
                 <h1>MuaaZ</h1>
             </div>
             <div className="footer-description">
-                <p>Student at Ramdeobaba College Engineering and Maangement.</p>
+                <p>Student at Ramdeobaba College of Engineering and Maangement.</p>
                 <p>Web developer and Compititive Programmer.</p>
             </div>
             <div className="footer-links">
