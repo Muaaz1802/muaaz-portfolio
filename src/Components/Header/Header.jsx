@@ -15,7 +15,7 @@ const Header = () => {
         <div id="home" className="header">
             <img src={profile_img} alt="" className="profile-img"/>
             <h1><span>I'm Syed Muaaz,</span> frontend developer based in India</h1>
-            <p>I'm a second year student at Ramdeobaba College of Management, Nagpur. I'm an AIML enthusiast and I like to <span className="code">Code</span></p>
+            <p>I'm a second year student at Ramdeobaba College Engineering of Management, Nagpur. I'm an AIML enthusiast and I like to <span className="code">Code</span></p>
             <div className="header-action">
                 <div className="header-connect" onClick={goToConnect}>Connect with me</div>
                 <div className="header-resume" onClick={goToResume}>My Resume</div>
